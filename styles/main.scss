@@ -1,0 +1,61 @@
+body {
+        margin: 0;
+        background: #000;
+      }
+      canvas {
+        display: block;
+      }
+      button.save {
+        position: absolute;
+        bottom: 20px;
+        padding: 12px 6px;
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 4px;
+        background: rgba(0, 0, 0, 0.1) none repeat scroll 0% 0%;
+        color: rgb(255, 255, 255);
+        font: 13px sans-serif;
+        text-align: center;
+        opacity: 0.5;
+        outline: currentcolor none medium;
+        z-index: 999;
+        cursor: pointer;
+        left: 20px;
+        width: 100px;
+        height: 50px;
+      }
+      button.gem {
+        position: absolute;
+        bottom: 20px;
+        padding: 12px 6px;
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 4px;
+        background: rgba(0, 0, 0, 0.1) none repeat scroll 0% 0%;
+        color: rgb(255, 255, 255);
+        font: 13px sans-serif;
+        text-align: center;
+        opacity: 0.5;
+        outline: currentcolor none medium;
+        z-index: 999;
+        cursor: pointer;
+        left: 140px;
+        width: 100px;
+        height: 50px;
+      }
+      button.sphere {
+        position: absolute;
+        bottom: 20px;
+        padding: 12px 6px;
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 4px;
+        background: rgba(0, 0, 0, 0.1) none repeat scroll 0% 0%;
+        color: rgb(255, 255, 255);
+        font: 13px sans-serif;
+        text-align: center;
+        opacity: 0.5;
+        outline: currentcolor none medium;
+        z-index: 999;
+        cursor: pointer;
+        left: 260px;
+        width: 100px;
+        height: 50px;
+      }
